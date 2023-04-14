@@ -8,7 +8,7 @@ $color[] = 'GREEN';
 $color[] = 'YELLOW';
 $color[] = 'MAGENTA';
 $color[] = 'FUSCHIA';
+//aaddedd
 echo var_dump($color);
-
 
 ?>
