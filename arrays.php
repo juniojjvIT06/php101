@@ -6,6 +6,7 @@ $color[] = 'RED';
 $color[] = 'BLUE';
 $color[] = 'GREEN';
 $color[] = 'YELLOW';
+$color[] = 'MAGENTA';
 echo var_dump($color);
 
 
