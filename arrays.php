@@ -12,6 +12,8 @@ $color[] = 'FUSCHIA';
 
 //added new line
 
+$numbers =0 ;
+
 
 echo var_dump($color);
 
