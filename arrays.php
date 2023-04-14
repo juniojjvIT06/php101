@@ -14,6 +14,7 @@ $color[] = 'FUSCHIA';
 
 $numbers =0 ;
 
+$peso = 00.00;
 
 echo var_dump($color);
 
