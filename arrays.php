@@ -10,7 +10,9 @@ $color[] = 'MAGENTA';
 $color[] = 'FUSCHIA';
 //aaddedd
 
-//added some line
+//added new line
+
+
 echo var_dump($color);
 
 ?>
