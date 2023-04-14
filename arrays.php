@@ -11,6 +11,8 @@ $color[] = 'FUSCHIA';
 //aaddedd
 //added new line
 
+$peso = 00.00;
+
 echo var_dump($color);
 
 ?>
